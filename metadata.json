@@ -1,0 +1,6 @@
+{
+  "name": "Zylo",
+  "description": "Zylo is a personalized, advanced full-black AI Assistant for CA Intermediate candidates, specialized in Taxation, GST Provisions, OCR-based handwriting answer sheet evaluation, and dynamic style adaptation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
